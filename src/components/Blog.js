@@ -1,5 +1,4 @@
 import React from 'react'
-
 import BlogIntro from './BlogIntro'
 import PostsList from './PostsList'
 import SearchForm from './SearchForm'
