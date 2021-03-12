@@ -35,7 +35,7 @@ export default function PostDetails( { post } ) {
                             <div className="description"> {post.content} </div>
                         </div>
                         <div className="extra content">
-                            <a href=""><i aria-hidden="true" className="user icon"></i>By: {post.author}</a>
+                            <a href="/user"><i aria-hidden="true" className="user icon"></i>By: {post.author}</a>
                             
                         </div>
                         <div>
